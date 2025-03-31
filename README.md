@@ -20,9 +20,16 @@ This repository contains code and data for a project focused on developing compr
 * Seaborn
 
 ## Project Objectives
-
 * Develop a robust model to predict heart rate based on the aforementioned multifactorial data and Gender.
 * Analyze and visualize the influence of each parameter on cardiac activity.
 * Identify significant correlations and patterns in cardiac data.
 * Create detailed cardiac profiles that highlight gender-specific differences.
 * Contribute to a deeper understanding of cardiovascular health and potentially inform future gender-specific healthcare strategies.
+
+  ## Methodology
+This project utilizes:
+* **Data Preprocessing:** Cleaning, transforming, and preparing the raw data for analysis.
+* **Feature Engineering:** Creating new features from existing data to improve model performance.
+* **Statistical Analysis:** Exploring correlations and distributions using statistical methods.
+* **Machine Learning:** Employing regression models (e.g., Random Forest Regression) to predict heart rate and identify important features.
+* **Data Visualization:** Creating informative plots and charts to communicate findings.
