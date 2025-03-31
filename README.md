@@ -18,3 +18,11 @@ This repository contains code and data for a project focused on developing compr
 * Scikit-learn
 * Matplotlib
 * Seaborn
+
+## Project Objectives
+
+* Develop a robust model to predict heart rate based on the aforementioned multifactorial data and Gender.
+* Analyze and visualize the influence of each parameter on cardiac activity.
+* Identify significant correlations and patterns in cardiac data.
+* Create detailed cardiac profiles that highlight gender-specific differences.
+* Contribute to a deeper understanding of cardiovascular health and potentially inform future gender-specific healthcare strategies.
