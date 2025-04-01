@@ -33,3 +33,9 @@ This project utilizes:
 * **Statistical Analysis:** Exploring correlations and distributions using statistical methods.
 * **Machine Learning:** Employing regression models (e.g., Random Forest Regression) to predict heart rate and identify important features.
 * **Data Visualization:** Creating informative plots and charts to communicate findings.
+
+ ## Model
+The model implemented in this project is a [Regression Random Forest].
+
+Algorithm: [Regression Random Forest].
+Performance Metrics: [Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²). ]
