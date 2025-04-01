@@ -2,6 +2,7 @@
 "This repository explores the cardiac profiles of different genders. Using data analysis and machine learning, this project attempts to find patterns and create profiles of cardiac characteristics. The goal is to provide insight into gender based cardiac differences."
 
 This repository contains code and data for a project focused on developing comprehensive cardiac profiles based on multifactorial data on basics of Gender . We aim to analyze and model the complex relationships between various demographic and physiological factors, including:
+Dataset Contain :
 * **Gender**
 * **Age**
 * **Weight**
@@ -39,3 +40,4 @@ The model implemented in this project is a [Regression Random Forest].
 
 Algorithm: [Regression Random Forest].
 Performance Metrics: [Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²). ]
+
